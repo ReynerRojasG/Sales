@@ -127,7 +127,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="FileName.cpp" />
     <ClCompile Include="FloorList.cpp" />
     <ClCompile Include="Pisos_practica.cpp" />
     <ClCompile Include="SalesQuantity.cpp" />

@@ -86,7 +86,6 @@
 
                         if (!workerExists) {
                             previousFloor->getWorkersList()->insertWorkerData(workerName);
-                            previousFloor->getWorkersList()->addSaleToWorker(workerName, workerTotalSales);
                         }
 
                         worker = worker->getNext();

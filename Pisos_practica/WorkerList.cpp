@@ -87,7 +87,7 @@ WorkerList::WorkerList() : head(nullptr), addition(0) {}
     }
 
     void WorkerList::showTotalSales() {
-        std::cout << "Total de ventas de todos los trabajadores: " << addition << std::endl;
+        std::cout << "Total de ventas de los trabajadores en el piso: " << addition << std::endl;
     }
 
     NodeWorker* WorkerList::getHead() {
